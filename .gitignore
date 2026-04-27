@@ -1,0 +1,21 @@
+.env
+node_modules/
+*.zip
+*.pptx
+
+# AHCCCS work — Accenture client data, never sync to personal GitHub
+AHCCCS/
+
+# Project folders — local only
+Claude/
+Ideation Lab/
+KB/
+sales-dashboard/
+skill-creator/
+skills-demo/
+skills-main-by-anthropic/
+today-skill/
+X12_Analyzer/
+
+# Claude Code config
+.claude/
